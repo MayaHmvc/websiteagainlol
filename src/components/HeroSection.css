@@ -1,5 +1,5 @@
     .hero-container {
-    background: #008b8b;
+    background: #008;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -21,7 +21,7 @@
     color: #fff;
     font-size: 32px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-      'Lucida Sans', Arial, sans-serif;
+      'Lucida Sans', 'Arial', 'sans-serif';
   }
   
   .hero-btns {
